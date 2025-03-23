@@ -110,6 +110,4 @@ Se han implementado pruebas unitarias para los métodos más importantes del BST
 - Fatima Navarro
 - Emilio Chen
 
-## Licencia
-
-Este proyecto fue desarrollado como parte del curso CC2016 - Algoritmos y Estructura de Datos de la Universidad del Valle de Guatemala, Semestre I - 2025.
+hola los quiero mucho 
