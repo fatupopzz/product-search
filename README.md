@@ -2,6 +2,9 @@
 
 Este proyecto implementa un buscador de productos utilizando un Árbol Binario de Búsqueda (BST) para almacenar y recuperar información de productos eficientemente.
 
+![image](https://github.com/user-attachments/assets/6dd87da3-90c1-4bd0-8709-5e7cadd661bf)
+
+
 ## Descripción
 
 La aplicación permite:
