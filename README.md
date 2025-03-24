@@ -61,10 +61,7 @@ El proyecto está dividido en dos partes principales:
    ```
 
 3. Ejecuta la aplicación:
-   ```
-   java -jar target/product-search-0.0.1-SNAPSHOT.jar
-   ```
-   O alternativamente:
+ 
    ```
    mvn spring-boot:run
    ```
